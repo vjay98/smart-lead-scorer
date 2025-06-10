@@ -17,3 +17,7 @@ This project enhances Caprae Capital’s lead generation tool by using machine l
 ## Setup
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+
+## 🚀 Live Demo
+
+Check out the live app here 👉 [Streamlit App]([https://your-streamlit-url.streamlit.app](https://smart-lead-scorer-bdp8qymwgtfb6mzcmrk4app.streamlit.app/))
