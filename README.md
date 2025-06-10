@@ -12,7 +12,7 @@ This project enhances Caprae Capital’s lead generation tool by using machine l
 
 ## Dataset
 - Source: [Kaggle - 7M+ Companies](https://www.kaggle.com/datasets/farhanmd29/companies-dataset)
-- Key features: `year_founded`, `employee_range`, `growth_estimate`, `location`, `domain`
+- Key features: `year_founded`, `current_employee_estimate`, `growth_estimate`, `location`, `domain`
 
 ## Setup
 ```bash
