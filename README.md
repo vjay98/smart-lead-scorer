@@ -1,4 +1,4 @@
-# AI-Driven Lead Generation Challenge 🚀
+# AI-Readiness Lead Generation Challenge 🚀
 
 ## Overview
 This project enhances Caprae Capital’s lead generation tool by using machine learning to identify AI-ready companies based on size, growth, and maturity.
